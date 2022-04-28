@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <interface>
-	<object class="GtkHeaderBar" id="headerBar">
-		<property name="title-widget">
-			<object class="GtkStackSwitcher">
-				<property name="stack">stack</property>
-			</object>
-		</property>
+	<object id="headerBar" class="GtkStackSwitcher">
+		<property name="stack">stack</property>
 	</object>
 	<template class="Prefs" parent="GtkBox">
 		<property name="orientation">vertical</property>
@@ -177,7 +173,6 @@
 																		<child>
 																			<object class="GtkAdjustment" id="adjustment-icon-saturation">
 																				<property name="step-increment">10</property>
-																				<property name="page-size">20</property>
 																				<property name="upper">100</property>
 																			</object>
 																			<object class="GtkSpinButton" id="icon_saturation">
@@ -208,7 +203,6 @@
 																		<child>
 																			<object class="GtkAdjustment" id="adjustment-icon-contrast">
 																				<property name="step-increment">10</property>
-																				<property name="page-size">20</property>
 																				<property name="lower">-100</property>
 																				<property name="upper">100</property>
 																			</object>
@@ -240,7 +234,6 @@
 																		<child>
 																			<object class="GtkAdjustment" id="adjustment-icon-brightness">
 																				<property name="step-increment">10</property>
-																				<property name="page-size">20</property>
 																				<property name="lower">-100</property>
 																				<property name="upper">100</property>
 																			</object>

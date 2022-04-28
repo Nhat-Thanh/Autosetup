@@ -55,7 +55,7 @@
         <default>false</default>
       </key>
       <key name="hideindicator" type="b">
-        <default>false</default>
+        <default>true</default>
       </key>
       <key name="shortenunits" type="b">
         <default>false</default>
