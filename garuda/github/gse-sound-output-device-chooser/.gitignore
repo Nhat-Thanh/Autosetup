@@ -1,0 +1,6 @@
+*.json
+*.mo
+*.pyc
+__pycache__/
+*.*~
+dist/

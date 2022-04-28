@@ -1,0 +1,8 @@
+clipboard-indicator@tudmotu.com 
+dash-to-dock@micxgx.gmail.com 
+cpupower@mko-sl.de 
+netspeedsimplified@prateekmedia.extension 
+sound-output-device-chooser@kgshank.net 
+system-monitor@paradoxxx.zero.gmail.com 
+trayIconsReloaded@selfmade.pl 
+clipboard-history@alexsaveau.dev

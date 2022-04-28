@@ -1,0 +1,109 @@
+{
+    // C++ format
+    "C_Cpp.clang_format_fallbackStyle": "{ BasedOnStyle: LLVM, IndentWidth: 4, ColumnLimit: 0, SpacesBeforeTrailingComments: 5, Cpp11BracedListStyle: true, DerivePointerAlignment: true,  PointerAlignment: Right}",
+    "json.format.enable": true,    
+    
+    // color theme
+	"workbench.iconTheme": "material-icon-theme",
+	"workbench.colorTheme": "One Monokai",
+    "bracketPairColorizer.depreciation-notice": false,
+    	
+    // disable trust workspace
+    "security.workspace.trust.enabled": false,
+    
+    // editor setting
+    "editor.fontFamily": "Consolas",
+    "editor.fontSize": 15,
+    "editor.formatOnSave": false,
+    "editor.formatOnPaste": true,
+    "editor.formatOnType": true,
+    
+    "python.formatting.provider": "autopep8",
+    
+    "git.ignoreLimitWarning": true,
+
+    // terminal
+    "terminal.integrated.sendKeybindingsToShell": false,
+    "terminal.integrated.allowChords": false,
+    
+    // Code runner settings
+    "code-runner.saveAllFilesBeforeRun": true,
+    "code-runner.saveFileBeforeRun": true,
+    "code-runner.showExecutionMessage": false,
+    "code-runner.runInTerminal": true,
+    "code-runner.clearPreviousOutput": false,
+    "code-runner.executorMap": {
+        "javascript": "node",
+        "java": "cd $dir && javac $fileName && java $fileNameWithoutExt && rm $fileNameWithoutExt.class",
+        "c": "cd $dir && gcc -pthread -I$dir $fileName -o $fileNameWithoutExt && $dir$fileNameWithoutExt && rm $fileNameWithoutExt",
+        // @ C++17
+        "cpp": "cd $dir && g++ $fileName -pthread -std=c++17 -o $fileNameWithoutExt && ./$fileNameWithoutExt && rm $fileNameWithoutExt",
+        // @ C++20
+        // "cpp": "cd $dir && g++ $fileName -pthread -std=c++20 -o $fileNameWithoutExt && ./$fileNameWithoutExt.exe && rm $fileNameWithoutExt.exe",
+        "objective-c": "cd $dir && gcc -framework Cocoa $fileName -o $fileNameWithoutExt && $dir$fileNameWithoutExt",
+        "python": "python -u",
+        "shellscript": "bash",
+        "csharp": "cd $dir && csc $fileName -o $fileNameWithoutExt && ./$fileNameWithoutExt && rm $fileNameWithoutExt",
+        "rust": "cd $dir && rustc $fileName && $dir$fileNameWithoutExt"
+    },
+
+    // better comments settings
+    "better-comments.multilineComments": true,
+    "better-comments.highlightPlainText": false,
+    "better-comments.tags": [
+        {
+            "tag": "!",
+            "color": "#FF2D00",
+            "strikethrough": false,
+            "underline": false,
+            "backgroundColor": "transparent",
+            "bold": false,
+            "italic": false
+        },
+        {
+            "tag": "*",
+            "color": "#55ff00",
+            "strikethrough": false,
+            "underline": false,
+            "backgroundColor": "transparent",
+            "bold": false,
+            "italic": false
+        },
+        {
+            "tag": "//",
+            "color": "#474747",
+            "strikethrough": true,
+            "underline": false,
+            "backgroundColor": "transparent",
+            "bold": false,
+            "italic": false
+        },
+        {
+            "tag": "todo",
+            "color": "#FF8C00",
+            "strikethrough": false,
+            "underline": false,
+            "backgroundColor": "transparent",
+            "bold": false,
+            "italic": false
+        },
+        {
+            "tag": "?",
+            "color": "#d000ff",
+            "strikethrough": false,
+            "underline": false,
+            "backgroundColor": "transparent",
+            "bold": false,
+            "italic": false
+        },
+        {
+            "tag": "@",
+            "color": "#ffffff",
+            "strikethrough": false,
+            "underline": false,
+            "backgroundColor": "transparent",
+            "bold": false,
+            "italic": false
+        }
+    ]
+}

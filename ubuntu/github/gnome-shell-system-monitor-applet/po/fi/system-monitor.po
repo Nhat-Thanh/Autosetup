@@ -1,0 +1,423 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#: extension.js:906
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: paradoxxx.zero@gmail.com\n"
+"POT-Creation-Date: 2021-07-07 19:01+0200\n"
+"PO-Revision-Date: 2017-09-06 21:57+0300\n"
+"Last-Translator: Jiri Grönroos <jiri.gronroos+l10n@iki.fi>\n"
+"Language-Team: \n"
+"Language: fi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: prefs.js:181 prefs.js:209 prefs.js:227
+msgid ":"
+msgstr ":"
+
+#: prefs.js:344
+msgid "Display"
+msgstr "Näytä"
+
+#: prefs.js:357
+msgid "Refresh Time"
+msgstr "Päivitysväli"
+
+#: prefs.js:362
+msgid "Graph Width"
+msgstr "Käyrän leveys"
+
+#: prefs.js:348
+msgid "Show Text"
+msgstr "Näytä teksti"
+
+#: prefs.js:367
+msgid "Display Style"
+msgstr "Esitystyyli"
+
+#: prefs.js:490
+msgid "Display Icon"
+msgstr "Näytä kuvake"
+
+#: prefs.js:495
+msgid "Display in the Middle"
+msgstr "Näytä keskellä"
+
+#: prefs.js:516
+msgid "Background Color"
+msgstr "Taustaväri"
+
+#: prefs.js:423
+msgid "Display Individual Cores"
+msgstr "Näytä yksittäiset ytimet"
+
+#: prefs.js:419
+msgid "Show network speed in bits"
+msgstr "Näytä verkon nopeus biteissä"
+
+#: prefs.js:390
+msgid "Sensor"
+msgstr "Sensori"
+
+#: prefs.js:392
+msgid "Please install lm-sensors"
+msgstr "Asenna lm-sensors"
+
+#: prefs.js:511
+msgid "Move the clock"
+msgstr "Siirrä kello"
+
+#: prefs.js:500
+msgid "Compact Display"
+msgstr "Kompakti näyttö"
+
+#: extension.js:1308
+msgid "Cpu"
+msgstr "Suoritin"
+
+msgid "User"
+msgstr "Käyttäjä"
+
+msgid "System"
+msgstr "Järjestelmä"
+
+msgid "Other"
+msgstr "Muu"
+
+msgid "Nice"
+msgstr "Nice"
+
+msgid "Iowait"
+msgstr "Iowait"
+
+#: extension.js:1671
+msgid "Memory"
+msgstr "Muisti"
+
+msgid "Program"
+msgstr "Ohjelma"
+
+msgid "Cache"
+msgstr "Välimuisti"
+
+msgid "Buffer"
+msgstr "Puskuri"
+
+#: extension.js:1986
+msgid "Swap"
+msgstr "Swap"
+
+msgid "Used"
+msgstr "Käytetty"
+
+#: extension.js:1781
+msgid "Net"
+msgstr "Verkko"
+
+msgid "Up"
+msgstr "Lähetys"
+
+msgid "Down"
+msgstr "Lataus"
+
+msgid "Uperrors"
+msgstr "Lähetysvirheet"
+
+msgid "Downerrors"
+msgstr "Latausvirheet"
+
+msgid "collisions"
+msgstr "törmäykset"
+
+msgid "Collisions"
+msgstr "Törmäykset"
+
+#: extension.js:1490
+msgid "Disk"
+msgstr "Levy"
+
+msgid "Write"
+msgstr "Kirjoitus"
+
+msgid "Read"
+msgstr "Luku"
+
+#: extension.js:1549 extension.js:1581
+msgid "R"
+msgstr "R"
+
+#: extension.js:1560 extension.js:1590
+msgid "W"
+msgstr "W"
+
+#: prefs.js:368
+msgid "graph"
+msgstr "käyrä"
+
+#: prefs.js:368
+msgid "digit"
+msgstr "lukuarvo"
+
+#: prefs.js:368
+msgid "both"
+msgstr "molemmat"
+
+msgid "cpu"
+msgstr "cpu"
+
+#: extension.js:978
+msgid "mem"
+msgstr "mem"
+
+msgid "swap"
+msgstr "swap"
+
+msgid "net"
+msgstr "verkko"
+
+msgid "disk"
+msgstr "levy"
+
+#: extension.js:2536
+msgid "Preferences..."
+msgstr "Asetukset..."
+
+#: extension.js:2530
+msgid "System Monitor..."
+msgstr "Järjestelmän valvonta..."
+
+msgid "System monitor"
+msgstr "Järjestelmän valvonta"
+
+msgid "user"
+msgstr "käyttäjä"
+
+msgid "system"
+msgstr "järjestelmä"
+
+msgid "other"
+msgstr "muu"
+
+msgid "nice"
+msgstr "nice"
+
+msgid "iowait"
+msgstr "iowait"
+
+msgid "program"
+msgstr "ohjelma"
+
+msgid "cache"
+msgstr "välimuisti"
+
+msgid "buffer"
+msgstr "puskuri"
+
+msgid "used"
+msgstr "käytetty"
+
+msgid "up"
+msgstr "ulos"
+
+msgid "down"
+msgstr "sisään"
+
+msgid "uperrors"
+msgstr "lähetysvirheet"
+
+msgid "downerrors"
+msgstr "latausvirheet"
+
+msgid "write"
+msgstr "kirjoitus"
+
+msgid "read"
+msgstr "luku"
+
+#: extension.js:211 extension.js:1805 extension.js:1900 extension.js:1912
+#: extension.js:1942 extension.js:1953 extension.js:1964
+msgid "KiB/s"
+msgstr "KiB/s"
+
+#: extension.js:210 extension.js:212 extension.js:1498 extension.js:1903
+#: extension.js:1915
+msgid "MiB/s"
+msgstr "MiB/s"
+
+#: extension.js:214 extension.js:1875 extension.js:1887
+msgid "kbit/s"
+msgstr "kbit/s"
+
+#: extension.js:215 extension.js:1878 extension.js:1890
+msgid "Mbit/s"
+msgstr "Mbit/s"
+
+#: extension.js:1754 extension.js:2303 extension.js:2345
+msgid "MiB"
+msgstr "MiB"
+
+#: extension.js:1756 extension.js:2305 extension.js:2347
+msgid "GiB"
+msgstr "GiB"
+
+#: extension.js:228
+msgid "kB"
+msgstr "kt"
+
+#: extension.js:227 extension.js:229
+msgid "MB"
+msgstr "Mt"
+
+#: extension.js:2089 extension.js:2094
+msgid "Thermal"
+msgstr "Lämpötila"
+
+msgid "thermal"
+msgstr "lämpötila"
+
+#: prefs.js:352
+msgid "Show In Menu"
+msgstr "Näytä valikossa"
+
+#: prefs.js:427
+msgid "Show Time Remaining"
+msgstr "Näytä jäljellä oleva aika"
+
+#: prefs.js:431
+msgid "Hide System Icon"
+msgstr "Piilota järjestelmäkuvake"
+
+#: prefs.js:435
+msgid "Usage Style"
+msgstr "Käytön tyyli"
+
+#: prefs.js:436
+msgid "pie"
+msgstr "piirakka"
+
+#: prefs.js:436
+msgid "bar"
+msgstr "palkki"
+
+#: prefs.js:436
+msgid "none"
+msgstr "ei mitään"
+
+#: extension.js:300
+msgid "System Monitor Extension"
+msgstr "Järjestelmän valvonnan laajennus"
+
+#: extension.js:316
+msgid "Cancel"
+msgstr "Peru"
+
+#: extension.js:1076
+msgid "Battery"
+msgstr "Akku"
+
+msgid "battery"
+msgstr "akku"
+
+#: extension.js:1600
+msgid "Freq"
+msgstr "Taajuus"
+
+msgid "freq"
+msgstr "taajuus"
+
+#: extension.js:2163
+msgid "Fan"
+msgstr "Tuuletin"
+
+msgid "fan"
+msgstr "tuuletin"
+
+#: extension.js:2168 extension.js:2198 extension.js:2208
+msgid "rpm"
+msgstr "rpm"
+
+#: prefs.js:505
+msgid "Show tooltip"
+msgstr "Näytä työkaluvihje"
+
+#: extension.js:1287
+msgid "CPU"
+msgstr "Suoritin"
+
+#: prefs.js:448
+msgid "Display temperature in Fahrenheit"
+msgstr "Näytä lämpötila Fahrenheiteissa"
+
+#: prefs.js:452
+msgid "Temperature threshold (0 to disable)"
+msgstr ""
+
+#: prefs.js:34
+#, javascript-format
+msgid "#%02x%02x%02x%02x"
+msgstr ""
+
+#: prefs.js:459
+msgid "** Only Nvidia GPUs supported so far **"
+msgstr ""
+
+#: extension.js:1967
+msgid " ↓"
+msgstr ""
+
+#: extension.js:1973
+#, fuzzy
+msgid " KiB/s"
+msgstr "KiB/s"
+
+#: extension.js:1976
+msgid " ↑"
+msgstr ""
+
+#: extension.js:2218 extension.js:2223
+#, fuzzy
+msgid "GPU"
+msgstr "Suoritin"
+
+#, fuzzy
+msgid "Gpu"
+msgstr "Suoritin"
+
+#: extension.js:79
+msgid ""
+"Dependencies Missing\n"
+"Please install: \n"
+"gnome-system-monitor and libgtop, clutter and Network Manager gir bindings \n"
+"\t    on Debian and Ubuntu: gir1.2-gtop-2.0, gir1.2-nm-1.0, gir1.2-"
+"clutter-1.0, gnome-system-monitor \n"
+"\t    on Fedora: libgtop2-devel, NetworkManager-libnm-devel, gnome-system-"
+"monitor \n"
+"\t    on Arch: libgtop, networkmanager, gnome-system-monitor\n"
+"\t    on openSUSE: typelib-1_0-GTop-2_0, typelib-1_0-NetworkManager-1_0, "
+"gnome-system-monitor \n"
+"\t    on Mageia 64-bit: lib64gtop-gir2.0, lib64nm-gir1.0, lib64clutter-"
+"gir1.0, gnome-system-monitor\n"
+msgstr ""
+
+#: extension.js:213 extension.js:1907 extension.js:1919
+#, fuzzy
+msgid "GiB/s"
+msgstr "KiB/s"
+
+#: extension.js:216 extension.js:1882 extension.js:1894
+#, fuzzy
+msgid "Gbit/s"
+msgstr "kbit/s"
+
+#: extension.js:230
+#, fuzzy
+msgid "GB"
+msgstr "GiB"

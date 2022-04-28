@@ -1,0 +1,9 @@
+gnome-font-viewer
+snapd
+seahorse
+gnome-software-plugin-snap
+update-manager
+update-notifier
+gnome-calendar
+gnome-power-manager
+software-properties-gtk

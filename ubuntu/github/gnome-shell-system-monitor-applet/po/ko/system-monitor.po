@@ -1,0 +1,428 @@
+#: extension.js:906
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: paradoxxx.zero@gmail.com\n"
+"POT-Creation-Date: 2021-07-07 19:01+0200\n"
+"PO-Revision-Date: 2021-03-27 17:54+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: prefs.js:181 prefs.js:209 prefs.js:227
+msgid ":"
+msgstr ":"
+
+#: prefs.js:344
+msgid "Display"
+msgstr "표시하기"
+
+#: prefs.js:357
+msgid "Refresh Time"
+msgstr "새로고침 시간"
+
+#: prefs.js:362
+msgid "Graph Width"
+msgstr "그래프 폭"
+
+#: prefs.js:348
+msgid "Show Text"
+msgstr "텍스트 표시"
+
+#: prefs.js:367
+msgid "Display Style"
+msgstr "스타일"
+
+#: prefs.js:490
+msgid "Display Icon"
+msgstr "아이콘 표시"
+
+#: prefs.js:495
+msgid "Display in the Middle"
+msgstr "가운데에 표시"
+
+#: prefs.js:516
+msgid "Background Color"
+msgstr "배경 색상"
+
+#: prefs.js:423
+msgid "Display Individual Cores"
+msgstr "별도의 코어 표시"
+
+#: prefs.js:419
+msgid "Show network speed in bits"
+msgstr "네트워크 속도 표시"
+
+#: prefs.js:390
+msgid "Sensor"
+msgstr "센서"
+
+#: prefs.js:392
+msgid "Please install lm-sensors"
+msgstr "lm-sensors를 설치하십시오"
+
+#: prefs.js:511
+msgid "Move the clock"
+msgstr "시계로 이동"
+
+#: prefs.js:500
+msgid "Compact Display"
+msgstr "작게 표시"
+
+#: extension.js:1308
+msgid "Cpu"
+msgstr "CPU"
+
+msgid "User"
+msgstr "User"
+
+msgid "System"
+msgstr "System"
+
+msgid "Other"
+msgstr "Other"
+
+msgid "Nice"
+msgstr "Nice"
+
+msgid "Iowait"
+msgstr "Iowait"
+
+#: extension.js:1671
+msgid "Memory"
+msgstr "메모리"
+
+msgid "Program"
+msgstr "프로그램"
+
+msgid "Cache"
+msgstr "캐시"
+
+msgid "Buffer"
+msgstr "버퍼"
+
+#: extension.js:1986
+msgid "Swap"
+msgstr "스왑"
+
+msgid "Used"
+msgstr "사용량"
+
+#: extension.js:1781
+msgid "Net"
+msgstr "네트워크"
+
+msgid "Up"
+msgstr " Up"
+
+msgid "Down"
+msgstr " Down"
+
+msgid "Uperrors"
+msgstr "Uperrors"
+
+msgid "Downerrors"
+msgstr "Downerrors"
+
+msgid "collisions"
+msgstr "collisions"
+
+msgid "Collisions"
+msgstr "Collisions"
+
+#: extension.js:1490
+msgid "Disk"
+msgstr "디스크"
+
+msgid "Write"
+msgstr "Write"
+
+msgid "Read"
+msgstr "Read"
+
+#: extension.js:1549 extension.js:1581
+msgid "R"
+msgstr "R"
+
+#: extension.js:1560 extension.js:1590
+msgid "W"
+msgstr "W"
+
+#: prefs.js:368
+msgid "graph"
+msgstr "그래프"
+
+#: prefs.js:368
+msgid "digit"
+msgstr "숫자"
+
+#: prefs.js:368
+msgid "both"
+msgstr "둘 다"
+
+msgid "cpu"
+msgstr "cpu"
+
+#: extension.js:978
+msgid "mem"
+msgstr "mem"
+
+msgid "swap"
+msgstr "swap"
+
+msgid "net"
+msgstr "net"
+
+msgid "disk"
+msgstr "disk"
+
+#: extension.js:2536
+msgid "Preferences..."
+msgstr "설정"
+
+#: extension.js:2530
+msgid "System Monitor..."
+msgstr "시스템 감시"
+
+msgid "System monitor"
+msgstr "시스템 감시"
+
+msgid "user"
+msgstr "user"
+
+msgid "system"
+msgstr "system"
+
+msgid "other"
+msgstr "other"
+
+msgid "nice"
+msgstr "nice"
+
+msgid "iowait"
+msgstr "iowait"
+
+msgid "program"
+msgstr "program"
+
+msgid "cache"
+msgstr "cache"
+
+msgid "buffer"
+msgstr "buffer"
+
+msgid "used"
+msgstr "used"
+
+msgid "up"
+msgstr "up"
+
+msgid "down"
+msgstr "down"
+
+msgid "uperrors"
+msgstr "uperrors"
+
+msgid "downerrors"
+msgstr "downerrors"
+
+msgid "write"
+msgstr "write"
+
+msgid "read"
+msgstr "read"
+
+#: extension.js:211 extension.js:1805 extension.js:1900 extension.js:1912
+#: extension.js:1942 extension.js:1953 extension.js:1964
+msgid "KiB/s"
+msgstr "KiB/s"
+
+#: extension.js:210 extension.js:212 extension.js:1498 extension.js:1903
+#: extension.js:1915
+msgid "MiB/s"
+msgstr "MiB/s"
+
+#: extension.js:214 extension.js:1875 extension.js:1887
+msgid "kbit/s"
+msgstr "kbit/s"
+
+#: extension.js:215 extension.js:1878 extension.js:1890
+msgid "Mbit/s"
+msgstr "Mbit/s"
+
+#: extension.js:1754 extension.js:2303 extension.js:2345
+msgid "MiB"
+msgstr "MiB"
+
+#: extension.js:1756 extension.js:2305 extension.js:2347
+msgid "GiB"
+msgstr "GiB"
+
+#: extension.js:228
+msgid "kB"
+msgstr "kB"
+
+#: extension.js:227 extension.js:229
+msgid "MB"
+msgstr "MB"
+
+#: extension.js:2089 extension.js:2094
+msgid "Thermal"
+msgstr "온도"
+
+msgid "thermal"
+msgstr "thermal"
+
+#: prefs.js:352
+msgid "Show In Menu"
+msgstr "메뉴에 표시"
+
+#: prefs.js:427
+msgid "Show Time Remaining"
+msgstr "남은 시간 보기"
+
+#: prefs.js:431
+msgid "Hide System Icon"
+msgstr "시스템 아이콘 숨기기"
+
+#: prefs.js:435
+msgid "Usage Style"
+msgstr "사용량 스타일"
+
+#: prefs.js:436
+msgid "pie"
+msgstr "원형"
+
+#: prefs.js:436
+msgid "bar"
+msgstr "막대"
+
+#: prefs.js:436
+msgid "none"
+msgstr "없음"
+
+#: extension.js:300
+msgid "System Monitor Extension"
+msgstr "시스템 모니터 확장"
+
+#: extension.js:316
+msgid "Cancel"
+msgstr "취소"
+
+#: extension.js:1076
+msgid "Battery"
+msgstr "배터리"
+
+msgid "battery"
+msgstr "battery"
+
+#: extension.js:1600
+msgid "Freq"
+msgstr "Freq"
+
+msgid "freq"
+msgstr "freq"
+
+#: extension.js:2163
+msgid "Fan"
+msgstr "쿨링팬"
+
+msgid "fan"
+msgstr "fan"
+
+#: extension.js:2168 extension.js:2198 extension.js:2208
+msgid "rpm"
+msgstr "rpm"
+
+#: prefs.js:505
+msgid "Show tooltip"
+msgstr "툴팁 보기"
+
+#: extension.js:1287
+msgid "CPU"
+msgstr "CPU"
+
+#: prefs.js:448
+msgid "Display temperature in Fahrenheit"
+msgstr "화씨 온도로 표시"
+
+#: prefs.js:452
+msgid "Temperature threshold (0 to disable)"
+msgstr "최대 온도 (0일 때 비활성화)"
+
+#: prefs.js:34
+#, javascript-format
+msgid "#%02x%02x%02x%02x"
+msgstr "#%02x%02x%02x%02x"
+
+#: prefs.js:459
+msgid "** Only Nvidia GPUs supported so far **"
+msgstr "** 현재 엔비디아 그래픽카드만 지원합니다 **"
+
+#: extension.js:1967
+msgid " ↓"
+msgstr " ↓"
+
+#: extension.js:1973
+msgid " KiB/s"
+msgstr " KiB/s"
+
+#: extension.js:1976
+msgid " ↑"
+msgstr " ↑"
+
+#: extension.js:2218 extension.js:2223
+msgid "GPU"
+msgstr "GPU"
+
+msgid "Gpu"
+msgstr "Gpu"
+
+#: extension.js:79
+msgid ""
+"Dependencies Missing\n"
+"Please install: \n"
+"gnome-system-monitor and libgtop, clutter and Network Manager gir bindings \n"
+"\t    on Debian and Ubuntu: gir1.2-gtop-2.0, gir1.2-nm-1.0, gir1.2-"
+"clutter-1.0, gnome-system-monitor \n"
+"\t    on Fedora: libgtop2-devel, NetworkManager-libnm-devel, gnome-system-"
+"monitor \n"
+"\t    on Arch: libgtop, networkmanager, gnome-system-monitor\n"
+"\t    on openSUSE: typelib-1_0-GTop-2_0, typelib-1_0-NetworkManager-1_0, "
+"gnome-system-monitor \n"
+"\t    on Mageia 64-bit: lib64gtop-gir2.0, lib64nm-gir1.0, lib64clutter-"
+"gir1.0, gnome-system-monitor\n"
+msgstr ""
+"Dependencies Missing\n"
+"Please install: \n"
+"gnome-system-monitor and libgtop, clutter and Network Manager gir bindings \n"
+"\t    on Debian and Ubuntu: gir1.2-gtop-2.0, gir1.2-nm-1.0, gir1.2-"
+"clutter-1.0, gnome-system-monitor \n"
+"\t    on Fedora: libgtop2-devel, NetworkManager-libnm-devel, gnome-system-"
+"monitor \n"
+"\t    on Arch: libgtop, networkmanager, gnome-system-monitor\n"
+"\t    on openSUSE: typelib-1_0-GTop-2_0, typelib-1_0-NetworkManager-1_0, "
+"gnome-system-monitor \n"
+"\t    on Mageia 64-bit: lib64gtop-gir2.0, lib64nm-gir1.0, lib64clutter-"
+"gir1.0, gnome-system-monitor\n"
+
+#: extension.js:213 extension.js:1907 extension.js:1919
+#, fuzzy
+msgid "GiB/s"
+msgstr "KiB/s"
+
+#: extension.js:216 extension.js:1882 extension.js:1894
+#, fuzzy
+msgid "Gbit/s"
+msgstr "kbit/s"
+
+#: extension.js:230
+#, fuzzy
+msgid "GB"
+msgstr "GiB"

@@ -1,0 +1,432 @@
+# Hungarian translation
+# Copyright (C) 2011 2011 Florian Mounier aka paradoxxxzero.
+# This file is distributed under the same license as the gnome-shell-system-monitor-applet package.
+# Meskó Balázs <mesko.balazs@fsf.hu>, 2020.
+#
+#: extension.js:906
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: paradoxxx.zero@gmail.com\n"
+"POT-Creation-Date: 2021-07-07 19:01+0200\n"
+"PO-Revision-Date: 2021-03-22 09:17+0100\n"
+"Last-Translator: Meskó Balázs <mesko.balazs@fsf.hu>\n"
+"Language-Team: \n"
+"Language: hu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: prefs.js:181 prefs.js:209 prefs.js:227
+msgid ":"
+msgstr ":"
+
+#: prefs.js:344
+msgid "Display"
+msgstr "Megjelenítés"
+
+#: prefs.js:357
+msgid "Refresh Time"
+msgstr "Frissítési idő"
+
+#: prefs.js:362
+msgid "Graph Width"
+msgstr "Grafikon szélessége"
+
+#: prefs.js:348
+msgid "Show Text"
+msgstr "Szöveg megjelenítése"
+
+#: prefs.js:367
+msgid "Display Style"
+msgstr "Megjelenítés stílusa"
+
+#: prefs.js:490
+msgid "Display Icon"
+msgstr "Ikon megjelenítése"
+
+#: prefs.js:495
+msgid "Display in the Middle"
+msgstr "Megjelenítés középen"
+
+#: prefs.js:516
+msgid "Background Color"
+msgstr "Háttérszín"
+
+#: prefs.js:423
+msgid "Display Individual Cores"
+msgstr "Egyes magok megjelenítése"
+
+#: prefs.js:419
+msgid "Show network speed in bits"
+msgstr "Hálózati sebesség megjelenítése bitekben"
+
+#: prefs.js:390
+msgid "Sensor"
+msgstr "Érzékelő"
+
+#: prefs.js:392
+msgid "Please install lm-sensors"
+msgstr "Telepítse az „lm-sensors” csomagot"
+
+#: prefs.js:511
+msgid "Move the clock"
+msgstr "Az óra áthelyezése"
+
+#: prefs.js:500
+msgid "Compact Display"
+msgstr "Kompakt megjelenítés"
+
+#: extension.js:1308
+msgid "Cpu"
+msgstr "CPU"
+
+msgid "User"
+msgstr "Felhasználó"
+
+msgid "System"
+msgstr "Rendszer"
+
+msgid "Other"
+msgstr "Egyéb"
+
+msgid "Nice"
+msgstr "Nice"
+
+msgid "Iowait"
+msgstr "Iowait"
+
+#: extension.js:1671
+msgid "Memory"
+msgstr "Memória"
+
+msgid "Program"
+msgstr "Program"
+
+msgid "Cache"
+msgstr "Gyorsítótár"
+
+msgid "Buffer"
+msgstr "Puffer"
+
+#: extension.js:1986
+msgid "Swap"
+msgstr "Cserehely"
+
+msgid "Used"
+msgstr "Használt"
+
+#: extension.js:1781
+msgid "Net"
+msgstr "Hálózat"
+
+msgid "Up"
+msgstr "Fel"
+
+msgid "Down"
+msgstr "Le"
+
+msgid "Uperrors"
+msgstr "Hiba fel"
+
+msgid "Downerrors"
+msgstr "Hiba le"
+
+msgid "collisions"
+msgstr "ütközés"
+
+msgid "Collisions"
+msgstr "Ütközések"
+
+#: extension.js:1490
+msgid "Disk"
+msgstr "Lemez"
+
+msgid "Write"
+msgstr "Írás"
+
+msgid "Read"
+msgstr "Olvasás"
+
+#: extension.js:1549 extension.js:1581
+msgid "R"
+msgstr "R"
+
+#: extension.js:1560 extension.js:1590
+msgid "W"
+msgstr "W"
+
+#: prefs.js:368
+msgid "graph"
+msgstr "grafikon"
+
+#: prefs.js:368
+msgid "digit"
+msgstr "számjegy"
+
+#: prefs.js:368
+msgid "both"
+msgstr "mindkettő"
+
+msgid "cpu"
+msgstr "cpu"
+
+#: extension.js:978
+msgid "mem"
+msgstr "mem"
+
+msgid "swap"
+msgstr "csere"
+
+msgid "net"
+msgstr "hál."
+
+msgid "disk"
+msgstr "lem."
+
+#: extension.js:2536
+msgid "Preferences..."
+msgstr "Beállítások…"
+
+#: extension.js:2530
+msgid "System Monitor..."
+msgstr "Rendszerfigyelő…"
+
+msgid "System monitor"
+msgstr "Rendszerfigyelő"
+
+msgid "user"
+msgstr "felhasználó"
+
+msgid "system"
+msgstr "rendszer"
+
+msgid "other"
+msgstr "egyéb"
+
+msgid "nice"
+msgstr "nice"
+
+msgid "iowait"
+msgstr "iowait"
+
+msgid "program"
+msgstr "program"
+
+msgid "cache"
+msgstr "gyorsítótár"
+
+msgid "buffer"
+msgstr "puffer"
+
+msgid "used"
+msgstr "használt"
+
+msgid "up"
+msgstr "fel"
+
+msgid "down"
+msgstr "le"
+
+msgid "uperrors"
+msgstr "hiba fel"
+
+msgid "downerrors"
+msgstr "hiba le"
+
+msgid "write"
+msgstr "írás"
+
+msgid "read"
+msgstr "olvasás"
+
+#: extension.js:211 extension.js:1805 extension.js:1900 extension.js:1912
+#: extension.js:1942 extension.js:1953 extension.js:1964
+msgid "KiB/s"
+msgstr "KiB/s"
+
+#: extension.js:210 extension.js:212 extension.js:1498 extension.js:1903
+#: extension.js:1915
+msgid "MiB/s"
+msgstr "MiB/s"
+
+#: extension.js:214 extension.js:1875 extension.js:1887
+msgid "kbit/s"
+msgstr "kbit/s"
+
+#: extension.js:215 extension.js:1878 extension.js:1890
+msgid "Mbit/s"
+msgstr "Mbit/s"
+
+#: extension.js:1754 extension.js:2303 extension.js:2345
+msgid "MiB"
+msgstr "MiB"
+
+#: extension.js:1756 extension.js:2305 extension.js:2347
+msgid "GiB"
+msgstr "GiB"
+
+#: extension.js:228
+msgid "kB"
+msgstr "kB"
+
+#: extension.js:227 extension.js:229
+msgid "MB"
+msgstr "MB"
+
+#: extension.js:2089 extension.js:2094
+msgid "Thermal"
+msgstr "Hőmérséklet"
+
+msgid "thermal"
+msgstr "hőmérséklet"
+
+#: prefs.js:352
+msgid "Show In Menu"
+msgstr "Megjelenítés a menüben"
+
+#: prefs.js:427
+msgid "Show Time Remaining"
+msgstr "Hátralévő idő megjelenítése"
+
+#: prefs.js:431
+msgid "Hide System Icon"
+msgstr "Rendszerikon elrejtése"
+
+#: prefs.js:435
+msgid "Usage Style"
+msgstr "Használat stílusa"
+
+#: prefs.js:436
+msgid "pie"
+msgstr "torta"
+
+#: prefs.js:436
+msgid "bar"
+msgstr "oszlop"
+
+#: prefs.js:436
+msgid "none"
+msgstr "nincs"
+
+#: extension.js:300
+msgid "System Monitor Extension"
+msgstr "Rendszerfigyelő kiegészítő"
+
+#: extension.js:316
+msgid "Cancel"
+msgstr "Mégse"
+
+#: extension.js:1076
+msgid "Battery"
+msgstr "Akkumulátor"
+
+msgid "battery"
+msgstr "akkumulátor"
+
+#: extension.js:1600
+msgid "Freq"
+msgstr "Frekvencia"
+
+msgid "freq"
+msgstr "frekvencia"
+
+#: extension.js:2163
+msgid "Fan"
+msgstr "Ventilátor"
+
+msgid "fan"
+msgstr "ventilátor"
+
+#: extension.js:2168 extension.js:2198 extension.js:2208
+msgid "rpm"
+msgstr "fordulat/perc"
+
+#: prefs.js:505
+msgid "Show tooltip"
+msgstr "Buboréksúgó megjelenítése"
+
+#: extension.js:1287
+msgid "CPU"
+msgstr "CPU"
+
+#: prefs.js:448
+msgid "Display temperature in Fahrenheit"
+msgstr "Hőmérséklet megjelenítése Fahrenheitben"
+
+#: prefs.js:452
+msgid "Temperature threshold (0 to disable)"
+msgstr "Hőmérséklet korlátja (0 a letiltáshoz)"
+
+#: prefs.js:34
+#, javascript-format
+msgid "#%02x%02x%02x%02x"
+msgstr "#%02x%02x%02x%02x"
+
+#: prefs.js:459
+msgid "** Only Nvidia GPUs supported so far **"
+msgstr "** Jelenleg csak az Nvidia GPU-k támogatottak **"
+
+#: extension.js:1967
+msgid " ↓"
+msgstr " ↓"
+
+#: extension.js:1973
+msgid " KiB/s"
+msgstr " KiB/s"
+
+#: extension.js:1976
+msgid " ↑"
+msgstr " ↑"
+
+#: extension.js:2218 extension.js:2223
+msgid "GPU"
+msgstr "GPU"
+
+msgid "Gpu"
+msgstr "GPU"
+
+#: extension.js:79
+msgid ""
+"Dependencies Missing\n"
+"Please install: \n"
+"gnome-system-monitor and libgtop, clutter and Network Manager gir bindings \n"
+"\t    on Debian and Ubuntu: gir1.2-gtop-2.0, gir1.2-nm-1.0, gir1.2-"
+"clutter-1.0, gnome-system-monitor \n"
+"\t    on Fedora: libgtop2-devel, NetworkManager-libnm-devel, gnome-system-"
+"monitor \n"
+"\t    on Arch: libgtop, networkmanager, gnome-system-monitor\n"
+"\t    on openSUSE: typelib-1_0-GTop-2_0, typelib-1_0-NetworkManager-1_0, "
+"gnome-system-monitor \n"
+"\t    on Mageia 64-bit: lib64gtop-gir2.0, lib64nm-gir1.0, lib64clutter-"
+"gir1.0, gnome-system-monitor\n"
+msgstr ""
+"Hiányzó függőségek\n"
+"Kérjük telepítse: \n"
+"gnome-system-monitor és libgtop, clutter és Network Manager gir kötések \n"
+"\t    Debianon és Ubuntun: gir1.2-gtop-2.0, gir1.2-nm-1.0, gir1.2-"
+"clutter-1.0, gnome-system-monitor \n"
+"\t    Fedorán: libgtop2-devel, NetworkManager-libnm-devel, gnome-system-"
+"monitor \n"
+"\t    Archon: libgtop, networkmanager, gnome-system-monitor\n"
+"\t    openSUSE-n: typelib-1_0-GTop-2_0, typelib-1_0-NetworkManager-1_0, "
+"gnome-system-monitor \n"
+"\t    64 bites Mageián: lib64gtop-gir2.0, lib64nm-gir1.0, lib64clutter-"
+"gir1.0, gnome-system-monitor\n"
+
+#: extension.js:213 extension.js:1907 extension.js:1919
+#, fuzzy
+msgid "GiB/s"
+msgstr "KiB/s"
+
+#: extension.js:216 extension.js:1882 extension.js:1894
+#, fuzzy
+msgid "Gbit/s"
+msgstr "kbit/s"
+
+#: extension.js:230
+#, fuzzy
+msgid "GB"
+msgstr "GiB"

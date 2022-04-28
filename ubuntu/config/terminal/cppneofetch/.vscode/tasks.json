@@ -1,0 +1,46 @@
+{
+    "tasks": [
+        {
+            "label": "C/C++: g++ build active file",
+            "windows": {
+                "type": "shell",
+                "command": "F:\\mingw64\\bin\\g++.exe",
+                "args": [
+                    "-g",
+                    "${file}",
+                    "-std=c++2a",
+                    "-pthread",
+                    "-o",
+                    "${fileDirname}\\${fileBasenameNoExtension}.exe"
+                ],
+                "options": {
+                    "cwd": "${workspaceFolder}"
+                },
+                "problemMatcher": [
+                    "$gcc"
+                ],
+                "group": "build"
+            },
+            "linux": {
+                "type": "shell",
+                "command": "/usr/bin/g++",
+                "args": [
+                    "-g",
+                    "${file}",
+                    "-std=c++2a",
+                    "-pthread",
+                    "-o",
+                    "${fileDirname}/${fileBasenameNoExtension}",
+                ],
+                "options": {
+                    "cwd": "${workspaceFolder}"
+                },
+                "problemMatcher": [
+                    "$gcc"
+                ],
+                "group": "build"
+            }
+        }
+    ],
+    "version": "2.0.0"
+}

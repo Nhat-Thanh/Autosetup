@@ -1,0 +1,29 @@
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Test binary, build with `go test -c`
+*.test
+xtest
+
+# Output of the go coverage tool, specifically when used with LiteIDE
+*.out
+
+.vim/
+.git/
+.idea/
+.ccls-cache/
+test-data/
+src/*/.git
+debian/files
+debian/debhelper-build-stamp
+debian/ibus-bamboo*
+debian/.debhelper
+*_linux
+*.tar.gz
+ibus-engine-*
+keyboard-shortcut-editor
+macro-editor

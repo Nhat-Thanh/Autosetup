@@ -1,0 +1,63 @@
+alacritty
+ark
+baobab
+beautyline
+celluloid
+cheese gnome-video-effects
+epiphany
+firedragon
+flameshot
+garuda-assistant
+garuda-boot-options garuda-gamer
+garuda-browser-settings
+garuda-gnome-settings
+garuda-network-assistant
+garuda-settings-manager garuda-settings-manager-kcm
+garuda-settings-manager-git
+garuda-settings-manager-notifier-git
+garuda-setup-assistant
+garuda-wallpapers
+garuda-welcome
+geary
+gestures
+gnome-backgrounds
+gnome-books
+gnome-boxes
+gnome-calculator
+gnome-calendar
+gnome-characters
+gnome-clocks
+gnome-contacts
+gnome-firmware
+gnome-font-viewer
+gnome-logs
+gnome-maps
+gnome-music
+gnome-music
+gnome-photos
+gnome-remote-desktop
+gnome-screenshot
+gnome-system-monitor
+gnome-user-docs
+gnome-weather
+kvantum-qt5
+kvantum-theme-sweet-git
+librewolf-extension-bitwarden
+librewolf-extension-gnome-shell-integration
+librewolf-extension-localcdn
+librewolf garuda-librewolf
+lollypop
+meld
+modem-manager-gui
+mpv
+mujs
+neofetch-git
+nextcloud-client
+pace
+qomui-git
+simple-scan
+starship garuda-starship-prompt garuda-bash-config garuda-fish-config garuda-common-settings garuda-gnome-settings
+tela-circle-icon-theme-git
+totem
+yad reflector-simple
+yelp
